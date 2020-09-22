@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! 👋
+
+Thanks for visiting my Github! My name is Sam, you can learn more about me on my [site](https://samyu.io/)!
 
 <!--
 **SamYu/SamYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
